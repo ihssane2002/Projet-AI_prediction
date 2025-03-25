@@ -28,7 +28,7 @@ cd Projet-AI_prediction
 ```
 3. Lancez le notebook :
 ```bash
-jupyter notebook Projet_AI_Prediction.ipynb
+jupyter notebook Projet_AI_Prediction.ipynb 
 ```
 
 ---
